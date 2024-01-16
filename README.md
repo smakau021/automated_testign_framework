@@ -21,7 +21,7 @@ Ensure you have Python and pip installed on your machine.
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/automated-testing-framework.git
+git clone https://github.com/smakau021/automated_testign_framework.git
 cd automated-testing-framework
 pip install -r requirements.txt
 ```
